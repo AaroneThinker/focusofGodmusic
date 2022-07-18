@@ -1,0 +1,12 @@
+
+<div class="form-group col-sm-12">
+<label>Country:</label>
+<select class="form-control" id="selectcountry">
+    <option>Select Country</option>
+    <option>Caneda</option>
+    <option>Noida</option>
+    <option >USA</option>
+    <option>India</option>
+    <option>Africa</option>
+</select>
+</div>
